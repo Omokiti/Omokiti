@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github Profile, Please feel free to checkout out my projects built with html,css ,Javascript and React.
+Welcome to my Github Profile, Please feel free to checkout out my projects built with Html,Css ,Javascript and React.
 
 I am a creative front end developer who enjoys creating beautiful user interfaces using suitable web technologies and following best practices.
 
