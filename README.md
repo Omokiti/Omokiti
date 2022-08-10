@@ -4,6 +4,8 @@ Welcome to my Github Profile, Please feel free to checkout out my projects built
 
 I am a creative front end developer who enjoys creating beautiful user interfaces using suitable web technologies and following best practices.
 
+I also enjoy learning, writing and documenting about things I learn.
+
 When I am not coding you can find me Listening to Music,Watching a Movie,Reading a novel and Hiking(when I visit the nothern part of Nigeria).
 
 <!--
