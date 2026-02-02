@@ -2,7 +2,7 @@
 
 Welcome to my Github Profile. Please feel free to check out my projects built with HTML, Css, JavaScript, React and Node.js.
 
-I am a frontend developer who enjoys creating beautiful user interfaces and APIs using suitable web technologies and following best practices.
+I am a Software Engineer who enjoys creating beautiful user interfaces and APIs using suitable web technologies and following best practices.
 
 I also enjoy learning, writing and documenting about things I learn.
 
